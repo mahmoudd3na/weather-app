@@ -1,0 +1,7 @@
+.container {
+    border : 1vmin solid rgb(77, 77, 223);
+    border-radius: 3vmin;
+    width: 89.7vmin;
+    margin: auto;
+    height: 90vmin
+}
