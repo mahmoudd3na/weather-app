@@ -1,0 +1,15 @@
+.date-temp{
+    border: 1px solid grey;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.date-container{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
